@@ -47,4 +47,5 @@ The model was evaluated using the R² score and error metrics.
 
   # Visualizations
   ![LR(Train)](LR(Train).png)
+  ![LR(Test](LR(Test).png)
   
