@@ -44,3 +44,7 @@ The model was evaluated using the R² score and error metrics.
 - Handling categorical variables
 - Regression modeling
 - Model evaluation
+
+  # Visualizations
+  ![LR(Train)](LR(Train).png)
+  
